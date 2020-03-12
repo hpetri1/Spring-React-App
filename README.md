@@ -1,3 +1,3 @@
 # Spring-React-App
 
-This is a demo app with Spring framework for the backend and ReactJS for the front-end.
+Integration of Spring and React frameworks into a single REST API with a React front-end.
