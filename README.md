@@ -12,3 +12,9 @@ Tools and enviroment used to create the project:
 6. Java Development Kit (JDK), version 1.8
 7. Apache Maven, version 3.0 or later
 
+Steps to run the project:
+1. Run ReactAndSpringDataRestApp.java file (starts the server)
+2. In terminal type
+  - cd client
+  - npm start
+
